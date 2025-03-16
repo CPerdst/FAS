@@ -1,0 +1,6 @@
+[submodule "FAS_backend"]
+	path = FAS_backend
+	url = git@github.com:CPerdst/FAS_backend.git
+[submodule "FAS_frontend"]
+	path = FAS_frontend
+	url = git@github.com:CPerdst/FAS_frontend.git
