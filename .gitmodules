@@ -4,3 +4,4 @@
 [submodule "FAS_frontend"]
 	path = FAS_frontend
 	url = git@github.com:CPerdst/FAS_frontend.git
+	branch = main
